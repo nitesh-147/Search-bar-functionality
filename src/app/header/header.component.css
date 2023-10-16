@@ -1,0 +1,22 @@
+div{
+    display:flex;
+    justify-content: space-between;
+    padding:2vw;
+    background-color: aliceblue;
+}
+
+h1{
+    text-transform: uppercase;
+}
+
+span{
+    color:lightseagreen;
+}
+
+div input{
+    width:50vw;
+    height:4vw;
+    border-radius: 10px;
+    padding:0 2vw;
+}
+

@@ -1,0 +1,10 @@
+.secondary{
+    display:flex;
+    justify-content: space-evenly;
+    row-gap: 2vh;
+    flex-wrap: wrap;
+}
+h2{
+    margin-top: 10vh;
+    text-align: center;
+}
